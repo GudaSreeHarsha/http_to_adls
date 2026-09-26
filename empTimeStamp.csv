@@ -1,0 +1,6 @@
+empID,empName,salary,dep,lastLoginUTC
+1,John Doe,75000,HR,2025-03-13 9:15:00 AM
+2,Jane Smith,85000,IT,2025-03-13 10:30:00 AM
+3,Alice Lee,92000,Finance,2025-03-12 3:45:00 PM
+4,Bob Brown,65000,Marketing,2025-03-13 8:00:00 AM
+5,Charlie Green,72000,IT,2025-03-11 5:10:00 PM
