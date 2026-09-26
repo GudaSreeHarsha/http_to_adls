@@ -1,0 +1,52 @@
+[
+  {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Returns.csv",
+    "p_sync_folder" : "Returns",
+    "p_sync_file" : "AdventureWorks_returns.csv"
+  },
+    {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Calendar.csv",
+    "p_sync_folder" : "Calendar",
+    "p_sync_file" : "AdventureWorks_Calendar.csv"
+  },
+    {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Customers.csv",
+    "p_sync_folder" : "Customers",
+    "p_sync_file" : "AdventureWorks_Customers.csv"
+  },
+    {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Product_Categories.csv",
+    "p_sync_folder" : "Product_Categories.csv",
+    "p_sync_file" : "AdventureWorks_Product_Categories.csv"
+  },
+    {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Product_Subcategories.csv",
+    "p_sync_folder" : "Product_Subcategories",
+    "p_sync_file" : "AdventureWorks_Product_Subcategories.csv"
+  },
+    {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Products.csv",
+    "p_sync_folder" : "Products",
+    "p_sync_file" : "AdventureWorks_Products.csv"
+  },
+    {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Sales_2015.csv",
+    "p_sync_folder" : "Sales_2015",
+    "p_sync_file" : "AdventureWorks_Sales_2015.csv"
+  },
+   {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Sales_2016.csv",
+    "p_sync_folder" : "Sales_2016",
+    "p_sync_file" : "AdventureWorks_Sales_2016.csv"
+  },
+    {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Sales_2017.csv",
+    "p_sync_folder" : "Sales_2016",
+    "p_sync_file" : "AdventureWorks_Sales_2016.csv"
+  },
+  {
+    "p_relative_URL" : "Sree-gitRemote/sreeADFDemo/refs/heads/main/adventureWorks/AdventureWorks_Territories.csv",
+    "p_sync_folder" : "Territories",
+    "p_sync_file" : "AdventureWorks_Territories.csv"
+  }
+]
