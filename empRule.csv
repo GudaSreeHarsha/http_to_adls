@@ -1,2 +1,0 @@
-fileName,rule
-Employees.csv,byName(\'gender\')==\'male\'
